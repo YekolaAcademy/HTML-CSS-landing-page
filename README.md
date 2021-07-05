@@ -32,5 +32,5 @@ By the end of this course, you will know how to plan your project, create your w
 - The training venue section
 - The footer section
 
-Happy Coding!
+**Happy Coding!**
 
